@@ -1,0 +1,33 @@
+.fundo{
+    background: linear-gradient(50deg,#0d4a8e,#0e2e1a) no-repeat;
+    height: 100vh;
+    max-width: 100vw !important;
+}
+
+.fundo-color{
+    background: linear-gradient(50deg,#0d4a8e,#0e2e1a) no-repeat;
+}
+
+#map{
+    height: 91vh;
+}
+
+div{
+    background-color:#f8f9fa;
+    padding: 5px;
+    max-width: 99.5vw !important;  
+    margin: auto;  
+}
+
+.centro {
+	display: flex !important;
+	justify-content: center !important;
+    align-items: center !important;
+}
+
+.border {
+    border-width: 3px !important;
+    margin: 3px;
+}
+
+

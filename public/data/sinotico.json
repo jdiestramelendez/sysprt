@@ -1,0 +1,175 @@
+[
+  {
+    "posicao": "01M",
+    "veiculo": {
+        "id": 0,
+        "id_unit": "A0MH",
+        "description": "805 - MAN 17230 OD / EURO 5"
+    },
+    "motorista": {
+        "id": 1,
+         "name": "José Bento da Silva"
+    },
+    "cobrador": {
+        "id": 0,
+        "name": ""
+    },
+    "linha": "SETÚBAL (CONDE DA BOA VISTA)",
+    "escala": "032 - DU",
+    "itinerario": "032 - IDA",
+    "atividade": "viagemregular",
+    "tipo_percuro": "ida",
+    "hora_saida": "13:56",
+    "hora_saida_real": "13:58",
+    "ponto_atual": {
+        "id": 459,
+        "endereco": "R. Sá e Souza, 964",
+        "cod_referencia": "IDA - R. Sá e Souza, 964",
+        "lat": "-8.140523",
+        "lng": "-34.907801",
+        "nome": "R. Sá e Souza, 964"
+    },
+    "ponto_chegada": {
+        "id": 1348,
+        "endereco": "Rua Primeiro de Março, 120, Santo Antonio, Recife - PE, 50010-070, Brasil",
+        "cod_referencia": "RETORNO - Edf Do Diário De Pernambuco (PR)",
+        "lat": "-8.064158",
+        "lng": "-34.877665",
+        "nome": "Guararapes & Diário de Pernambuco"
+    },
+    "hora_chegada": "14:46",
+    "hora_chegada_real": "",
+    "status": "iniciado",
+    "nome_ponto_chegada": "Terminal Setúbal",
+    "nome_ponto_saida": "Guararapes & Diário de Pernambuco"
+  },
+  {
+    "posicao": "02M",
+    "veiculo": {
+        "id": 0,
+        "description": "706 MAN 17.230 OD EURO 5"
+    },
+    "motorista": {
+        "id": 1,
+         "name": "Marco Junior"
+    },
+    "cobrador": {
+        "id": 0,
+        "name": ""
+    },
+    "linha": "SETÚBAL (CONDE DA BOA VISTA)",
+    "escala": "032 - DU",
+    "itinerario": "032 - IDA",
+    "atividade": "viagemregular",
+    "tipo_percuro": "ida",
+    "hora_saida": "05:10",
+    "hora_saida_real": "05:35",
+    "ponto_atual": {
+        "id": 459,
+        "endereco": "R. Sá e Souza, 964",
+        "cod_referencia": "IDA - R. Sá e Souza, 964",
+        "lat": "-8.140523",
+        "lng": "-34.907801",
+        "nome": "R. Sá e Souza, 964"
+    },
+    "ponto_chegada": {
+        "id": 1348,
+        "endereco": "Rua Primeiro de Março, 120, Santo Antonio, Recife - PE, 50010-070, Brasil",
+        "cod_referencia": "RETORNO - Edf Do Diário De Pernambuco (PR)",
+        "lat": "-8.064158",
+        "lng": "-34.877665",
+        "nome": "Guararapes & Diário de Pernambuco"
+    },
+    "hora_chegada": "05:40",
+    "hora_chegada_real": "",
+    "status": "iniciado",
+    "nome_ponto_chegada": "Terminal Setúbal",
+    "nome_ponto_saida": "Guararapes & Diário de Pernambuco"
+  },
+  {
+    "posicao": "03M",
+    "veiculo": {
+        "id": 0,
+        "description": "706 MAN 17.230 OD EURO 5"
+    },
+    "motorista": {
+        "id": 1,
+         "name": "Marco Junior"
+    },
+    "cobrador": {
+        "id": 0,
+        "name": ""
+    },
+    "linha": "SETÚBAL (CONDE DA BOA VISTA)",
+    "escala": "032 - DU",
+    "itinerario": "032 - IDA",
+    "atividade": "viagemregular",
+    "tipo_percuro": "ida",
+    "hora_saida": "05:10",
+    "hora_saida_real": "05:35",
+    "ponto_atual": {
+        "id": 459,
+        "endereco": "R. Sá e Souza, 964",
+        "cod_referencia": "IDA - R. Sá e Souza, 964",
+        "lat": "-8.140523",
+        "lng": "-34.907801",
+        "nome": "R. Sá e Souza, 964"
+    },
+    "ponto_chegada": {
+        "id": 1348,
+        "endereco": "Rua Primeiro de Março, 120, Santo Antonio, Recife - PE, 50010-070, Brasil",
+        "cod_referencia": "RETORNO - Edf Do Diário De Pernambuco (PR)",
+        "lat": "-8.064158",
+        "lng": "-34.877665",
+        "nome": "Guararapes & Diário de Pernambuco"
+    },
+    "hora_chegada": "05:40",
+    "hora_chegada_real": "",
+    "status": "iniciado",
+    "nome_ponto_chegada": "Terminal Setúbal",
+    "nome_ponto_saida": "Guararapes & Diário de Pernambuco"
+  },
+  {
+    "posicao": "04M",
+    "veiculo": {
+        "id": 0,
+        "description": "706 MAN 17.230 OD EURO 5"
+    },
+    "motorista": {
+        "id": 1,
+         "name": "Marco Junior"
+    },
+    "cobrador": {
+        "id": 0,
+        "name": ""
+    },
+    "linha": "SETÚBAL (CONDE DA BOA VISTA)",
+    "escala": "032 - DU",
+    "itinerario": "032 - IDA",
+    "atividade": "viagemregular",
+    "tipo_percuro": "ida",
+    "hora_saida": "05:10",
+    "hora_saida_real": "05:35",
+    "ponto_atual": {
+        "id": 459,
+        "endereco": "R. Sá e Souza, 964",
+        "cod_referencia": "IDA - R. Sá e Souza, 964",
+        "lat": "-8.140523",
+        "lng": "-34.907801",
+        "nome": "R. Sá e Souza, 964"
+    },
+    "ponto_chegada": {
+        "id": 1348,
+        "endereco": "Rua Primeiro de Março, 120, Santo Antonio, Recife - PE, 50010-070, Brasil",
+        "cod_referencia": "RETORNO - Edf Do Diário De Pernambuco (PR)",
+        "lat": "-8.064158",
+        "lng": "-34.877665",
+        "nome": "Guararapes & Diário de Pernambuco"
+    },
+    "hora_chegada": "05:40",
+    "hora_chegada_real": "",
+    "status": "iniciado",
+    "nome_ponto_chegada": "Terminal Setúbal",
+    "nome_ponto_saida": "Guararapes & Diário de Pernambuco"
+  }
+]

@@ -1,0 +1,45 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npm run development",
+        "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "watch": "npm run development -- --watch",
+        "watch-poll": "npm run watch -- --watch-poll",
+        "hot": "cross-env NODE_ENV=development node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "prod": "npm run production",
+        "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
+    },
+    "devDependencies": {
+        "axios": "^0.18",
+        "babel-preset-stage-2": "^6.24.1",
+        "bootstrap": "^4.0.0",
+        "cross-env": "^5.1",
+        "jquery": "^3.2",
+        "laravel-mix": "^2.0",
+        "lodash": "^4.17.5",
+        "popper.js": "^1.12",
+        "vue": "^2.5.17"
+    },
+    "dependencies": {
+        "c3": "^0.7.11",
+        "d3": "^5.15.0",
+        "here-js-api": "^1.0.10",
+        "jsts": "^2.1.1",
+        "marker-clusterer-plus": "^2.1.4",
+        "react": "^16.8.6",
+        "react-dom": "^16.8.6",
+        "vue-c3": "^1.2.11",
+        "vue-custom-range-slider": "^0.2.1",
+        "vue-data-tables": "^3.4.4",
+        "vue-google-charts": "^0.3.2",
+        "vue-grid-layout": "^2.3.6",
+        "vue-moment": "^4.0.0",
+        "vue-perfect-scrollbar": "^0.1.0",
+        "vue-property-decorator": "^8.2.1",
+        "vue-slider-component": "^2.8.12",
+        "vue2-google-maps": "^0.10.7",
+        "vuedraggable": "^2.23.2",
+        "vuex": "^3.1.1",
+        "xlsx": "^0.14.3"
+    }
+}

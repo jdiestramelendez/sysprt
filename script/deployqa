@@ -1,0 +1,18 @@
+#!/bin/sh
+ssh -o StrictHostKeyChecking=no -tt administrador@m2hmg.eastus.cloudapp.azure.com <<EOF
+  npm config set "@fortawesome:registry" https://npm.fontawesome.com/
+  npm config set "//npm.fontawesome.com/:_authToken" 46BB3729-2244-42F8-8ABB-4BDE020150C5
+  sudo rm -rf /var/www/html/*
+  cd /var/www/html/
+  sudo chown administrador:administrador -R /var/www/html/
+  sudo chmod 755 -R /var/www/html/
+  git clone -b QA https://flaviogrego:Fl83ma89@bitbucket.org/zettahaus/mobs2.git
+  cd /var/www/html/mobs2/
+  composer install
+  npm install
+  npm run prod
+  sudo chmod -R 777 /var/www/html/mobs2/storage
+  sudo chmod -R 777 /var/www/html/mobs2/bootstrap
+  sudo service nginx restart
+exit
+EOF

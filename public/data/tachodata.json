@@ -1,0 +1,149 @@
+{
+  "tacodata": [
+    {
+      "label": "Jornada",
+      "dtTotal": "12:08:00",
+      "eventList": [
+        {
+          "label": "Jornada de Trabalho",
+          "dtInicio": "08:44:00",
+          "dtFim": "20:53:00",
+          "css_Class": "charts_jornada"
+        }
+      ]
+    },
+    {
+      "label": "Em Direção",
+      "dtTotal": "06:19:18",
+      "eventList": [
+        {
+          "label": "Viagem",
+          "dtInicio": "08:44:54",
+          "dtFim": "09:23:26",
+          "css_Class": "charts_refeicao"
+        },
+        {
+          "label": "Viagem",
+          "dtInicio": "11:00:13",
+          "dtFim": "11:14:42",
+          "css_Class": "charts_refeicao"
+        },
+        {
+          "label": "Viagem",
+          "dtInicio": "11:16:01",
+          "dtFim": "11:17:33",
+          "css_Class": "charts_refeicao"
+        },
+        {
+          "label": "Viagem",
+          "dtInicio": "11:25:15",
+          "dtFim": "11:37:01",
+          "css_Class": "charts_refeicao"
+        },
+        {
+          "label": "Viagem",
+          "dtInicio": "12:03:42",
+          "dtFim": "14:46:24",
+          "css_Class": "charts_refeicao"
+        },
+        {
+          "label": "Viagem",
+          "dtInicio": "15:38:33",
+          "dtFim": "15:46:47",
+          "css_Class": "charts_refeicao"
+        },
+        {
+          "label": "Viagem",
+          "dtInicio": "15:58:52",
+          "dtFim": "16:03:18",
+          "css_Class": "charts_refeicao"
+        },
+        {
+          "label": "Viagem",
+          "dtInicio": "18:04:09",
+          "dtFim": "18:10:51",
+          "css_Class": "charts_refeicao"
+        },
+        {
+          "label": "Viagem",
+          "dtInicio": "18:52:35",
+          "dtFim": "20:53:30",
+          "css_Class": "charts_refeicao"
+        }
+      ]
+    },
+    {
+      "label": "Refeição",
+      "dtTotal": "00:00:00",
+      "eventList": [
+        {
+          "label": "Refeição",
+          "dtInicio": "14:46:25",
+          "dtFim": "15:38:32",
+          "css_Class": "charts_espera"
+        }
+      ]
+    },
+    {
+      "label": "Espera",
+      "dtTotal": "00:00:00",
+      "eventList": [
+
+      ]
+    },
+    {
+      "label": "Hora Extra",
+      "dtTotal": "00:08:20",
+      "eventList": [
+        {
+          "label": "Hora extra dirigindo",
+          "dtInicio": "20:45:00",
+          "dtFim": "20:53:00",
+          "css_Class": "charts_horaExtra"
+        }
+      ]
+    },
+    {
+      "label": "Descanso Obrigatório",
+      "dtTotal": "00:38:42",
+      "eventList": [
+        {
+          "label": "Descanso Obrigatório",
+          "dtInicio": "11:37:02",
+          "dtFim": "12:03:41",
+          "css_Class": "charts_descanso"
+        },
+        {
+          "label": "Descanso Obrigatório",
+          "dtInicio": "15:46:48",
+          "dtFim": "15:58:51",
+          "css_Class": "charts_descanso"
+        }
+      ]
+    },
+    {
+      "label": "Eventos",
+      "dtTotal": "00:04:00",
+      "eventList": [
+        {
+          "label": "Aceleração Brusca",
+          "dtInicio": "08:45:45",
+          "dtFim": "08:47:45",
+          "css_Class": "charts_horaExtra"
+        },
+        {
+          "label": "Freada Brusca",
+          "dtInicio": "12:10:36",
+          "dtFim": "12:11:36",
+          "css_Class": "charts_horaExtra"
+        },
+        {
+          "label": "Marcha Lenta",
+          "dtInicio": "19:30:01",
+          "dtFim": "19:31:01",
+          "css_Class": "charts_horaExtra"
+        }
+      ]
+    }
+  ]
+}
